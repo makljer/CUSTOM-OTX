@@ -75,7 +75,7 @@ mapAuthor = "BubeN"
 
 -- Market
 marketOfferDuration = 30 * 24 * 60 * 60
-premiumToCreateMarketOffer = true
+premiumToCreateMarketOffer = false
 checkExpiredMarketOffersEachMinutes = 60
 maxMarketOffersAtATimePerPlayer = 100
 
